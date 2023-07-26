@@ -1,0 +1,15 @@
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\bin\Debug\net7.0\Teste DJunior - CM Tecnologia.exe
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\bin\Debug\net7.0\Teste DJunior - CM Tecnologia.deps.json
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\bin\Debug\net7.0\Teste DJunior - CM Tecnologia.runtimeconfig.json
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\bin\Debug\net7.0\Teste DJunior - CM Tecnologia.dll
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\bin\Debug\net7.0\Teste DJunior - CM Tecnologia.pdb
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.csproj.AssemblyReference.cache
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.AssemblyInfoInputs.cache
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.AssemblyInfo.cs
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.dll
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\refint\Teste DJunior - CM Tecnologia.dll
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.pdb
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\Teste DJunior - CM Tecnologia.genruntimeconfig.cache
+C:\Users\creat\OneDrive\Desktop\Teste DJunior - CM Tecnologia\obj\Debug\net7.0\ref\Teste DJunior - CM Tecnologia.dll

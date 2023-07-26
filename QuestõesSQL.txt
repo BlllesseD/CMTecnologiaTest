@@ -1,0 +1,33 @@
+/* Questão 1 - A */
+
+SELECT a.*
+FROM Atendimento a
+JOIN Pacientes p ON a.id_paciente = p.id_paciente
+JOIN Prontuário pr ON a.id_prontuario = pr.id_prontuario
+WHERE p.nome_paciente = 'Nome do paciente' -- Substitua pelo nome do paciente desejado
+AND pr.descricao_prontuario = 'Neurologia'
+AND a.data_atendimento >= DATE_SUB(NOW(), INTERVAL 6 MONTH);
+
+/* Questão 1 - B */
+
+SELECT p.nome_paciente, pr.descricao_prontuario, a.data_atendimento
+FROM Pacientes p
+JOIN Atendimento a ON p.id_paciente = a.id_paciente
+JOIN Prontuário pr ON a.id_prontuario = pr.id_prontuario
+WHERE p.id_paciente = 123;
+
+/* Questão 2: Um cliente relata que está enfrentando lentidão em um determinado recurso do sistema. 
+Como você abordaria esse problema para identificar a causa raiz e propor uma solução? */
+
+Resposta: Analisaria e investigaria o desempenho do banco, com ferramentas de monitoramento durante um período, até que fosse
+possível identificar a causa da lentidão.
+
+/* Questão 3: Um usuário informa que está recebendo uma mensagem de erro ao tentar realizar uma operação específica no sistema. 
+Explique como você investigaria esse problema e quais etapas seguiria para solucioná-lo. */
+
+Resposta: Analiso o código desta parte especifica do sistema, descobrindo a raiz do problema e assim, pensando em formas de como solucionar o mesmo.
+
+/* Questão 4: Descreva como você lidaria com uma situação em que um usuário encontra um erro desconhecido. */
+
+Resposta: Investigaria a parte do código onde está retornando este erro desconhecido, pois, achar a raiz do problema é o primeiro passo
+para pensar em soluções de como resolvê-lo.
